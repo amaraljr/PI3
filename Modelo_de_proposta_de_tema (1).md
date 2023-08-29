@@ -34,7 +34,7 @@ Este trabalho tem como principais objetivos:
 > crie um projeto no GitHub discriminando as ações e o período em que as mesmas serão realizadas
 > coloque dentro do parênteses abaixo o link para o projeto criado
 
-Clique [aqui]() para acessar o cronograma.
+Clique [aqui](https://github.com/users/amaraljr/projects/1) para acessar o cronograma.
 
 
 # Unidades curriculares envolvidas
