@@ -5,7 +5,7 @@ Título: Modelagem Campus 3D
 
 Aluno(s): Agnaldo Luiz do Amaral Junior
 
-Orientador: Sgio Petrovcic
+Orientador: Sergio Petrovcic
 
 # Objetivo geral
 A convergência das tecnologias de modelagem 3D e realidade virtual tem revolucionado a forma como concebemos, interagimos e exploramos ambientes virtuais. A capacidade de criar réplicas digitais de locais do mundo real e mergulhar em experiências imersivas abriu caminho para a criação de metaversos, espaços virtuais compartilhados onde a interação, colaboração e exploração podem ocorrer de maneira singular. Nesse contexto, a integração entre o software de modelagem arquitetônica Revit e o mecanismo de desenvolvimento Unity desempenha um papel essencial na materialização desses metaversos, permitindo a transformação de projetos reais em experiências virtuais ricas e envolventes.
